@@ -1,6 +1,6 @@
 {
-  "id": "com.tuya.zigbee",
-  "version": "0.2.25",
+  "id": "com.tuya.zikbee",
+  "version": "0.2.26",
   "compatibility": ">=5.0.0",
   "platforms": [
     "local"
@@ -66,8 +66,8 @@
     "homey:wireless:zigbee"
   ],
   "homeyCommunityTopicId": 26439,
-  "source": "https://github.com/JohanBendz/com.tuya.zigbee",
-  "support": "mailto:johan_bendz@hotmail.com",
+  "source": "https://github.com/kevinmcb90/com.tuya.zikbee",
+  "support": "mailto:goawayt@gmail.com",
   "bugs": {
     "url": "https://github.com/JohanBendz/com.tuya.zigbee/issues"
   },
@@ -92,18 +92,6 @@
         "name": "Johan Bendz",
         "email": "johan_bendz@hotmail.com"
       },
-      {
-        "name": "Martijn Aben",
-        "email": "lidl@escabe.org"
-      },
-      {
-        "name": "Jurgen Heine",
-        "email": "jurgen2.heine@gmail.com"
-      },
-      {
-        "name": "Morris Haid",
-        "email": "mhaid2016@outlook.com"
-      }
     ]
   }
 }
